@@ -66,7 +66,7 @@
  "STATUS_DANGER": [ "#eb6f92" ],
  "STATUS_POSITIVE": [ "#9ccfd8" ],   
  "TEXT_DANGER": [ "#eb6f92" ],   
- "TEXT_LINK": [ "#FFE1C1" ],
+ "TEXT_LINK": [ "#f0b692" ],
  "TEXT_MUTED": [ "#ea9a97" ],
  "TEXT_NORMAL": [ "#E8E8EA" ],
  "TEXT_PRIMARY": [ "#E8E8EA" ],
@@ -75,7 +75,7 @@
 "rawColors": {
  "BLUE_330": "#FFE1C1",
  "BLUE_345": "#FFE1C1",
- "BRAND_230": "#f6c177",
+ "BRAND_230": "#9ccfd8",
  "BRAND_260": "#3e8fb0",
  "BRAND_300": "#ea9a97",
  "BRAND_360": "#E8E8EA",

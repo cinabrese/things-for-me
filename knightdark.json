@@ -48,7 +48,7 @@
  "MENTION_FOREGROUND": [ "#ea9a97" ],     
  "POLLS_VICTOR_FILL": [ "#9ccfd833" ],   
  "REDESIGN_ACTIVITY_CARD_BACKGROUND": [ "#474453" ],
- "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [ "#ea9a97" ],   
+ "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [ "#d7827e" ],   
  "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [ "#eb6f92" ],
  "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#5A5966" ],
  "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [ "#42414b" ],
@@ -217,7 +217,7 @@
   "member_list_badge_16px": "#F258A1",  
   "search": "#ea9a97",
   "StatusMobileOnline": "#90B27C",
-  "StatusIdle": "#9ccfd8", /*change to f6c177*/
+  "StatusIdle": "#9ccfd8", 
   "StatusDND": "#eb6f92",
   "StatusOffline": "#75748B",
   "StatusOnline": "#90B27C",
